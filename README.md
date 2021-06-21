@@ -3,7 +3,7 @@ Module 14: NY Citibike with Tableau
 
 
 ## Overview of Analysis
-We will be using Tableau to manipulate data, in order to create a business proposal for a bike-sharing in Des Moines. The available document consists of rider’s data for the month of August in New York City. For the purpose of our analysis, we will focus on making a distinction of subscribers vs non-subscribers, genders and focusing our attention on usage patterns. The results will allow us address investors and persuade them to invest in our project.
+We will be using Tableau to manipulate data, in order to create a business proposal for a bike-sharing in Des Moines. The available document consists of riders data for the month of August in New York City. For the purpose of our analysis, we will focus on making a distinction of subscribers vs non-subscribers, genders and focusing our attention on usage patterns. The results will allow us address investors and persuade them to invest in our project.
 
 ## Results
 The following results were found:
@@ -55,7 +55,7 @@ Both female and male riders use the services on the weekdays the most. Thursday 
 
 
 ## Summary
-Our findings show that riders have a preferred time of 5:00-6:00pm to ride, the most popular day is Thursday, most of the riders are subscribers and the males are the ones who use this service the most. Given that the results show that most users are male, more research should focus on female patters to grab that market. Two suggested visualizations which can increase the interest of investors is to learn how to increase customers. Given our data, we should focus time on learning about the areas where the Starttime, takes place. By locating the Start Station Latitude, and Start Station Longitude, and filtering it by ‘Gender’. The same can be said about the Stoptime, locating the End Station Latitude and End Station Longitude and filtering it by Gender, while using the given data. This will allow us to begin to understand why male riders may find this product more appealing that female, and if there is anything that can be modify to increase the female clientele. 
+Our findings show that riders have a preferred time of 5:00-6:00pm to ride, the most popular day is Thursday, most of the riders are subscribers and the males are the ones who use this service the most. Given that the results show that most users are male, more research should focus on female patters to grab that market. Two suggested visualizations which can increase the interest of investors is to learn how to increase customers. Given our data, we should focus time on learning about the areas where the Starttime, takes place. By locating the Start Station Latitude, and Start Station Longitude, and filtering it by Gender. The same can be said about the Stoptime, locating the End Station Latitude and End Station Longitude and filtering it by Gender, while using the given data. This will allow us to begin to understand why male riders may find this product more appealing that female, and if there is anything that can be modify to increase the female clientele. 
 
 For a breakdown of the findings, please see Tableau story titled: NYCCitybikeAnalysis in the link below.
 
