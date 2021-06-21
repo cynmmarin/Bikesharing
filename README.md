@@ -52,4 +52,7 @@ We will be using Tableau to manipulate data, in order to create a business propo
 
 
 
- 
+## Summary
+A Story has been created to 
+
+[NYC Bikesharing](https://public.tableau.com/app/profile/cynthia.marin/viz/NYCBikesharing_16242647495870/NYCCitibikeAnalysis)
